@@ -1,4 +1,6 @@
 ### Hi there 👋,I am Eka Akbar Permatasari
+![tumblr_d20491cd87347338a4dee2752ab2ebb8_bc097127_640](https://media0.giphy.com/media/2y98KScHKeaQM/200w.webp?cid=ecf05e477tr4p5xspmt58ei0ppal9deco5mtwi3an69fmpfw&rid=200w.webp&ct=g)
+
 
 - :earth_asia: I’m currently an undergraduate geophysics student on Gadjah Mada University
 - :computer: I’m currently learning computational method
