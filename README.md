@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=&theme=EkaAkbarPermatasaritokyonight&hide_border=false)<br/>
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=EkaAkbarPermatasari&show_icons=true&theme=tokyonight" />
 <p/>
-<h2 align="center">Contribution Graph 📊</h2>
+<h2 align="left">Contribution Graph 📊</h2>
 <img src="https://activity-graph.herokuapp.com/graph?username=EkaAkbarPermatasari&theme=chartreuse-dark" />  
 ---
 <p align=left> <img src=https://komarev.com/ghpvc/?username=EkaAkbarPermatasari alt=EkaAkbarPermatasari /> </p>
