@@ -14,7 +14,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EkaAkbarPermatasari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=&theme=EkaAkbarPermatasaritokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaAkbarPermatasari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=EkaAkbarPermatasari&show_icons=true&theme=tokyonight" />
+<p/>
+<h2 align="center">Contribution Graph 📊</h2>
+<img src="https://activity-graph.herokuapp.com/graph?username=EkaAkbarPermatasari&theme=chartreuse-dark" />  
 ---
 <p align=left> <img src=https://komarev.com/ghpvc/?username=EkaAkbarPermatasari alt=EkaAkbarPermatasari /> </p>
